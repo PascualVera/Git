@@ -1,3 +1,7 @@
+let suma = (a, b, c) => {
+  return a + b + c;
+};
+
 let resta = (a, b) => {
   return a - b;
 };
